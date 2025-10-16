@@ -48,4 +48,4 @@ I welcome contributions, bug reports, or inquiries related to this project, part
 
 Author: Phan Phạm Vũ Khoa
 
-Contact: [Your preferred contact method, e.g., GitHub Issues]
+Contact: khoayae18@gmail.com
