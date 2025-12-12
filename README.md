@@ -46,6 +46,6 @@ Theme: Switch between Darkly (Dark Mode) and Flatly (Light Mode).
 ## 🤝 Contact and Development
 I welcome contributions, bug reports, or inquiries related to this project, particularly in the context of my studies in Computer Networking and Communications, and my focus on building an Emergency Response System and Personal Blog on a Raspberry Pi 5.
 
-Author: Phan Phạm Vũ Khoa
+Author: Zeromast
 
-Contact: khoayae18@gmail.com
+Contact: public.deception729@passinbox.com
